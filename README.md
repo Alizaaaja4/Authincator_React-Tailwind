@@ -6,4 +6,4 @@
 
 | Project Name | Description                                      | Link                                      |
 |--------------|--------------------------------------------------|-------------------------------------------|
-| TiketWing| TiketWing is an application that makes it easy for users to book flight tickets online. With an intuitive and user-friendly interface, users can quickly search and book airline tickets according to their needs | [Documentation](https://github.com/Alizaaaja4/Project_Java-Ver.1)|
+| D’Real Estate| D'RealEstate is a program to facilitate users who are looking for Property such as houses and apartments. There are several options such as buying and selling houses and rent rent according to the time. | [Documentation](https://github.com/Alizaaaja4/Project_Java-Ver.1)|

@@ -6,4 +6,4 @@
 
 | Project Name | Description                                      | Link                                      |
 |--------------|--------------------------------------------------|-------------------------------------------|
-| D’Real Estate| D'RealEstate is a program to facilitate users who are looking for Property such as houses and apartments. There are several options such as buying and selling houses and rent rent according to the time. | [Documentation](https://github.com/Alizaaaja4/Project_Java-Ver.1)|
+| D’Real Estate| D'RealEstate is a program to facilitate users who are looking for Property such as houses and apartments. There are several options such as buying and selling houses and rent rent according to the time. | Documentation|

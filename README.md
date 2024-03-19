@@ -1,5 +1,5 @@
 APA CIKKKKKK
 
-Saya sedang belajar git push dan git clone
- nanananan nana
- nananan nanan
+Jangan kepo, karena saya sudah banyak pikiran <br>
+
+pinjam dulu 100, nanti saya ganti saat lebaran haji <br>
